@@ -8,51 +8,118 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+# 🧐 About Me
+Hi, I am a third-year master student with the Soft Engineering Institute, [East China Noraml University](https://english.ecnu.edu.cn/), under the supervision of [Prof. Zhili Chen](https://faculty.ecnu.edu.cn/_s43/czl2/main.psp). 
+I will be starting as a Ph.D. student at the Department of Computer Science of the [Stevens Institute of Technology](https://www.stevens.edu/) in 2024 Fall, advised by [Prof. Wendy Hui Wang](https://sites.google.com/view/wendy-wang/home).
 
-<span class='anchor' id='about-me'></span>
+[//]: # (From March 2023 to November 2023, I worked as a Research Assistant at the [ASTAPLE lab]&#40;https://www.astaple.com/&#41; of Hong Kong Polytechnic University, under the supervision of [Prof. Haibo Hu]&#40;https://haibohu.org/&#41; and [Dr. Qingqing Ye]&#40;https://www.qingqingye.net/&#41;. )
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+### 🤔 Research Interests:
+* Differential privacy.
+* Federated learning.
+* Trustworthy machine learning (fairness, privacy and robustness).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+Welcome to collabrate or have a discussion with me!
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.01*: &nbsp; I have joined the [Laboratory for Algorithmics](https://www-alg.ist.hokudai.ac.jp/?page_id=321&lang=en) at Hokkaido University as Research Assistant, under the supervision of [Dr. Yang Cao](https://yangcao88.github.io/), focusing on privacy in the LLM. 
+- *2024.03*: &nbsp;🎉 One paper is accepted by ICDE'24. 
+- *2024.02*: &nbsp;🎉 One co-first author paper is accepted by WoWMoM'24. 
+- *2023.11*: &nbsp;🎉 One first-authored paper is accepted by VLDB'24. 
+- *2023.03*: &nbsp; I have joined the [ASTAPLE lab](https://www.astaple.com/) at Hong Kong Polytechnic University as Research Assistant, under the supervision of [Prof. Haibo Hu](https://haibohu.org/) and [Dr. Qingqing Ye](https://www.qingqingye.net/). 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>)
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[//]: # (<div class='paper-box-text' markdown="1">)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[//]: # ()
+[//]: # ([Deep Residual Learning for Image Recognition]&#40;https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf&#41;)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[//]: # ()
+[//]: # (**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun)
+
+[//]: # ()
+[//]: # ([**Project**]&#40;https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC&#41; <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>)
+
+[//]: # (- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
+
+[//]: # (</div>)
+
+[//]: # (</div>)
+
+<div>
+
+* [DPSUR: Accelerating Differentially Private Stochastic Gradient Descent Using Selective Update and Release.](https://arxiv.org/abs/2211.07218)\
+**Jie Fu**, Qingqing Ye, Haibo Hu, Zhili Chen, Lulu Wang, Kuncan Wang, Ran Xun.\
+**VLDB, 2024** 
+
+
+* Differentially Private Graph Neural Networks for Link Prediction. \
+Xun Ran, Qingqing Ye, Haibo Hu, Xin Huang, Jianliang Xu, **Jie Fu**. \
+**ICDE, 2024** 
+
+
+* [ALI-DPFL: Differentially Private Federated Learning with Adaptive Local Iterations.](https://arxiv.org/abs/2308.10457)\
+Xinpeng Ling, **Jie Fu (co-first author)**, Kuncan Wang, Haitao Liu, Zhili Chen.\
+**WoWMoM, 2024** 
+
+* [Adap DP-FL: Differentially Private Federated Learning with Adaptive Noise.](https://ieeexplore.ieee.org/abstract/document/10063613)\
+**Jie Fu**, Zhili Chen, Xiao Han.\
+**TrustCom, 2022**  (Acceptance rate 101/404=25%) 
+
+
+
+
+* [Hierarchical federated learning with global differential privacy.](https://www.aimspress.com/aimspress-data/era/2023/7/PDF/era-31-07-190.pdf)\
+Long Youqun, Jianhui Zhang, Gaoli Wang, **Jie Fu**.\
+**Electronic Research Archive 31.7 (2023): 3741-3758** 
 </div>
-</div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+### Preprint
+* [Truncated Laplace and Gaussian mechanisms of RDP.](https://arxiv.org/abs/2309.12647)\
+**Jie Fu**, Zhiyu Sun, Haitao Liu, Zhili Chen.
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+* [DP-DCAN: Differentially Private Deep Contrastive Autoencoder Network for Single-cell Clustering.](https://arxiv.org/abs/2311.03410)\
+Huifa Li, **Jie Fu (co-first author)**, Zhili Chen, Xiaomin Yang, Haitao Liu, Xinpeng Ling.
+
+
+* [Enhancing SCF with Privacy-Preserving and Splitting-Enabled E-Bills on Blockchain.](https://arxiv.org/abs/2308.10457)\
+Yang Hao, **Jie Fu**, Zhili Chen, Haifeng Qian.
+
+
+[//]: # (# 🎖 Honors and Awards)
+
+[//]: # (- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
+
+[//]: # (- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - 2024.05 (now)*, Master, East China Noraml University, Shanghai, China. 
+- *2014.09 - 2018.06*, Undergraduate, HuaQiao University, Quanzhou, China. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+[//]: # (# 💬 Invited Talks)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+[//]: # (- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
+
+[//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
+
+# 💻 Works or Internships
+- *2024.04 - Now*, [INF](https://www.infly.cn/), LLM Intern, Shanghai.
+- *2024.01 - 2024.04*, [Hokkaidao University](https://www.hokudai.ac.jp/), Research Assistant, Hokkaidao.
+- *2023.03 - 2023.11*, [PolyU](https://www.polyu.edu.hk/), Research Assistant, Hongkong.
+- *2022.02 - 2023.02*, [Geely](https://www.geelydt.com/), Blockchain Privacy Computing Intern, Shanghai.
+- *2018.07 - 2021.08*, [YLZ](http://www.ylzinfo.com/), Product Manager (Full-time job), Xiamen.
+
+# 🎙 Hobbies
+- Soccer, graduate school team leader. 
+- Guitar, graduate school club guitar instructor.
+- Badminton, level 4.5.
+- Tennis, level 2.0.
+- Ski, Blue.
+
+Other activities I engage in include swimming, squash, and various board games and card games.
+
+Last updated on: 2024.04.23.
