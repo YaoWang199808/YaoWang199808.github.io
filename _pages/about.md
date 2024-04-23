@@ -106,7 +106,7 @@ Yang Hao, **Jie Fu**, Zhili Chen, Haifeng Qian.
 
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
 
-# 💻 Works or Internships
+# 💻 Works/Internships
 - *2024.04 - Now*, [INF](https://www.infly.cn/), LLM Intern, Shanghai.
 - *2024.01 - 2024.04*, [Hokkaidao University](https://www.hokudai.ac.jp/), Research Assistant, Hokkaidao.
 - *2023.03 - 2023.11*, [PolyU](https://www.polyu.edu.hk/), Research Assistant, Hongkong.
