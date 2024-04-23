@@ -19,7 +19,6 @@ I will be starting as a Ph.D. student at the Department of Computer Science of t
 * Federated learning.
 * Trustworthy machine learning (fairness, privacy and robustness).
 
-Welcome to collabrate or have a discussion with me!
 
 # 🔥 News
 - *2024.01*: &nbsp; I have joined the [Laboratory for Algorithmics](https://www-alg.ist.hokudai.ac.jp/?page_id=321&lang=en) at Hokkaido University as Research Assistant, under the supervision of [Dr. Yang Cao](https://yangcao88.github.io/), focusing on privacy in the LLM. 
@@ -49,7 +48,6 @@ Welcome to collabrate or have a discussion with me!
 
 [//]: # (</div>)
 
-<div>
 
 * [DPSUR: Accelerating Differentially Private Stochastic Gradient Descent Using Selective Update and Release.](https://arxiv.org/abs/2211.07218)\
 **Jie Fu**, Qingqing Ye, Haibo Hu, Zhili Chen, Lulu Wang, Kuncan Wang, Ran Xun.\
@@ -65,17 +63,16 @@ Xun Ran, Qingqing Ye, Haibo Hu, Xin Huang, Jianliang Xu, **Jie Fu**. \
 Xinpeng Ling, **Jie Fu (co-first author)**, Kuncan Wang, Haitao Liu, Zhili Chen.\
 **WoWMoM, 2024** 
 
+
 * [Adap DP-FL: Differentially Private Federated Learning with Adaptive Noise.](https://ieeexplore.ieee.org/abstract/document/10063613)\
 **Jie Fu**, Zhili Chen, Xiao Han.\
 **TrustCom, 2022**  (Acceptance rate 101/404=25%) 
 
 
-
-
 * [Hierarchical federated learning with global differential privacy.](https://www.aimspress.com/aimspress-data/era/2023/7/PDF/era-31-07-190.pdf)\
 Long Youqun, Jianhui Zhang, Gaoli Wang, **Jie Fu**.\
 **Electronic Research Archive 31.7 (2023): 3741-3758** 
-</div>
+
 
 ### Preprint
 * [Truncated Laplace and Gaussian mechanisms of RDP.](https://arxiv.org/abs/2309.12647)\
@@ -122,4 +119,5 @@ Yang Hao, **Jie Fu**, Zhili Chen, Haifeng Qian.
 
 Other activities I engage in include swimming, squash, and various board games and card games.
 
+--------------------
 Last updated on: 2024.04.23.
