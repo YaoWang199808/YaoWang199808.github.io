@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#-About Me"
+    url: "/#-about-me"
 
   - title: "News"
     url: "/#-news"
@@ -19,7 +19,7 @@ main:
 #    url: "/#-invited-talks"
 
   - title: "Works/Internships"
-    url: "/#-Works/Internships"
+    url: "/#-works/internships"
 
   - title: "Hobbies"
     url: "/#-hobbies"
