@@ -30,13 +30,11 @@ I will be starting as a Ph.D. student at the Department of Computer Science of t
 
 <div class="scrollable">
  <ul>
-
-- *2024.01*: &nbsp; I have joined the [Laboratory for Algorithmics](https://www-alg.ist.hokudai.ac.jp/?page_id=321&lang=en) at Hokkaido University as Research Assistant, under the supervision of [Dr. Yang Cao](https://yangcao88.github.io/), focusing on privacy in the LLM. 
-- *2024.03*: &nbsp;🎉 One paper is accepted by ICDE'24. 
-- *2024.02*: &nbsp;🎉 One co-first author paper is accepted by WoWMoM'24. 
-- *2023.11*: &nbsp;🎉 One first-authored paper is accepted by VLDB'24. 
-- *2023.03*: &nbsp; I have joined the [ASTAPLE lab](https://www.astaple.com/) at Hong Kong Polytechnic University as Research Assistant, under the supervision of [Prof. Haibo Hu](https://haibohu.org/) and [Dr. Qingqing Ye](https://www.qingqingye.net/). 
-
+<li><strong>2024.01</strong>: &nbsp; I have joined the [Laboratory for Algorithmics](https://www-alg.ist.hokudai.ac.jp/?page_id=321&lang=en) at Hokkaido University as Research Assistant, under the supervision of [Dr. Yang Cao](https://yangcao88.github.io/), focusing on privacy in the LLM. </li>
+<li><strong>2024.03</strong>:&nbsp;🎉 One paper is accepted by ICDE'24. </li> 
+<li><strong>2024.02</strong>:: &nbsp;🎉 One co-first author paper is accepted by WoWMoM'24. </li>
+<li><strong>2023.11</strong>:: &nbsp;🎉 One first-authored paper is accepted by VLDB'24. </li>
+<li><strong>2023.03</strong>:: &nbsp; I have joined the [ASTAPLE lab](https://www.astaple.com/) at Hong Kong Polytechnic University as Research Assistant, under the supervision of [Prof. Haibo Hu](https://haibohu.org/) and [Dr. Qingqing Ye](https://www.qingqingye.net/).</li>
 </ul>
 </div>
 
