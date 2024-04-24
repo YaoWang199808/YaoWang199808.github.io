@@ -118,6 +118,9 @@
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
 {% endif %}
+      {% if author.bilibili %}
+        <li> <a href="{{ author.bilibili }}"><i class="fab fa-fw fa-youtube" aria-hidden="true"></i>Bilibili</a> <li>
+      {% endif %}
     </ul>
       <div class="author__urls_sm">
       {% if author.uri %}
@@ -161,9 +164,6 @@
       {% endif %}
       {% if author.github %}
         <a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
-      {% endif %}
-        {% if author.bilibili %}
-        <a href="{{ author.bilibili }}"><i class="fab fa-fw fa-youtube" aria-hidden="true"></i>Bilibili</a>
       {% endif %}
       {% if author.stackoverflow %}
         <a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i></a>

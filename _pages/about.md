@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # 🧐 About Me
-Hi, I am a third-year master student with the Soft Engineering Institute, [East China Noraml University](https://english.ecnu.edu.cn/), under the supervision of [Prof. Zhili Chen](https://faculty.ecnu.edu.cn/_s43/czl2/main.psp). 
+Hi1, I am a third-year master student with the Soft Engineering Institute, [East China Noraml University](https://english.ecnu.edu.cn/), under the supervision of [Prof. Zhili Chen](https://faculty.ecnu.edu.cn/_s43/czl2/main.psp). 
 I will be starting as a Ph.D. student at the Department of Computer Science of the [Stevens Institute of Technology](https://www.stevens.edu/) in 2024 Fall, advised by [Prof. Wendy Hui Wang](https://sites.google.com/view/wendy-wang/home).
 
 [//]: # (From March 2023 to November 2023, I worked as a Research Assistant at the [ASTAPLE lab]&#40;https://www.astaple.com/&#41; of Hong Kong Polytechnic University, under the supervision of [Prof. Haibo Hu]&#40;https://haibohu.org/&#41; and [Dr. Qingqing Ye]&#40;https://www.qingqingye.net/&#41;. )
@@ -83,7 +83,7 @@ Long Youqun, Jianhui Zhang, Gaoli Wang, **Jie Fu**.\
 Huifa Li, **Jie Fu (co-first author)**, Zhili Chen, Xiaomin Yang, Haitao Liu, Xinpeng Ling.
 
 
-* [Enhancing SCF with Privacy-Preserving and Splitting-Enabled E-Bills on Blockchain.](https://arxiv.org/abs/2308.10457)\
+* [Enhancing SCF with Privacy-Preserving and Splitting-Enabled E-Bills on Blockchain.](https://arxiv.org/abs/2308.10020)\
 Yang Hao, **Jie Fu**, Zhili Chen, Haifeng Qian.
 
 
