@@ -127,7 +127,7 @@ Yang Hao, **Jie Fu**, Zhili Chen, Haifeng Qian.
 # 🎙 Hobbies
 - Soccer, graduate school team leader. 
 - Guitar, graduate school club guitar instructor.
-- Badminton, level 4.5.
+- Badminton, level 5.0.
 - Tennis, level 2.0.
 - Ski, Blue Slope.
 
