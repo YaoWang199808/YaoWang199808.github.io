@@ -51,6 +51,7 @@ Xinpeng Ling, **Jie Fu (co-first author)**, Kuncan Wang, Haitao Liu, Zhili Chen.
 * [Hierarchical federated learning with global differential privacy.](https://www.aimspress.com/aimspress-data/era/2023/7/PDF/era-31-07-190.pdf)\
 Long Youqun, Jianhui Zhang, Gaoli Wang, **Jie Fu**.\
 **Electronic Research Archive 31.7 (2023): 3741-3758** 
+
 [//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>)
 
 [//]: # (<div class='paper-box-text' markdown="1">)
@@ -108,15 +109,18 @@ Yang Hao, **Jie Fu**, Zhili Chen, Haifeng Qian.
 - *2023.03 - 2023.11*, [PolyU](https://www.polyu.edu.hk/), Research Assistant, Hongkong.
 - *2022.02 - 2023.02*, [Geely](https://www.geelydt.com/), Blockchain Privacy Computing Intern, Shanghai.
 - *2018.07 - 2021.08*, [YLZ](http://www.ylzinfo.com/), Product Manager (Full-time job), Xiamen.
+- *2018.01 - 2021.06*, [Shimao](https://www.shimaoco.com/), Management Trainee of Real Estate Consultant , Quanzhou.
+
+
 
 # 🎙 Hobbies
 - Soccer, graduate school team leader. 
 - Guitar, graduate school club guitar instructor.
 - Badminton, level 4.5.
 - Tennis, level 2.0.
-- Ski, Blue.
+- Ski, Blue Slope.
 
-Other activities I engage in include swimming, squash, and various board games and card games.
+Other activities I engage in include volleyball, swimming, squash, and so on.
 
 --------------------
 Last updated on: 2024.04.23.
