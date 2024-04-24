@@ -129,7 +129,7 @@ Yang Hao, **Jie Fu**, Zhili Chen, Haifeng Qian.
 - Guitar, graduate school club guitar instructor.
 - Badminton, level 5.0.
 - Tennis, level 2.0.
-- Ski, Blue Slope.
+- Ski, blue slope.
 
 Other activities I engage in include volleyball, swimming, squash, and so on.
 
