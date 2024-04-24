@@ -35,6 +35,7 @@ I will be starting as a Ph.D. student at the Department of Computer Science of t
 - *2024.02*: &nbsp;🎉 One co-first author paper is accepted by WoWMoM'24. 
 - *2023.11*: &nbsp;🎉 One first-authored paper is accepted by VLDB'24. 
 - *2023.03*: &nbsp; I have joined the [ASTAPLE lab](https://www.astaple.com/) at Hong Kong Polytechnic University as Research Assistant, under the supervision of [Prof. Haibo Hu](https://haibohu.org/) and [Dr. Qingqing Ye](https://www.qingqingye.net/). 
+
 </div>
 
 # 📝 Publications 
