@@ -21,11 +21,21 @@ I will be starting as a Ph.D. student at the Department of Computer Science of t
 
 
 # 🔥 News
+<style>
+  .scrollable {
+    max-height: 200px; 
+    overflow-y: scroll; 
+  }
+</style>
+
+<div class="scrollable">
+
 - *2024.01*: &nbsp; I have joined the [Laboratory for Algorithmics](https://www-alg.ist.hokudai.ac.jp/?page_id=321&lang=en) at Hokkaido University as Research Assistant, under the supervision of [Dr. Yang Cao](https://yangcao88.github.io/), focusing on privacy in the LLM. 
 - *2024.03*: &nbsp;🎉 One paper is accepted by ICDE'24. 
 - *2024.02*: &nbsp;🎉 One co-first author paper is accepted by WoWMoM'24. 
 - *2023.11*: &nbsp;🎉 One first-authored paper is accepted by VLDB'24. 
 - *2023.03*: &nbsp; I have joined the [ASTAPLE lab](https://www.astaple.com/) at Hong Kong Polytechnic University as Research Assistant, under the supervision of [Prof. Haibo Hu](https://haibohu.org/) and [Dr. Qingqing Ye](https://www.qingqingye.net/). 
+</div>
 
 # 📝 Publications 
 * [DPSUR: Accelerating Differentially Private Stochastic Gradient Descent Using Selective Update and Release.](https://arxiv.org/abs/2211.07218)\
@@ -95,7 +105,7 @@ Yang Hao, **Jie Fu**, Zhili Chen, Haifeng Qian.
 
 # 📖 Educations
 - *2021.09 - 2024.05 (now)*, Master, East China Noraml University, Shanghai, China. 
-- *2014.09 - 2018.06*, Undergraduate, HuaQiao University, Quanzhou, China. 
+- *2014.09 - 2018.06*, Undergraduate, Huaqiao University, Quanzhou, China. 
 
 [//]: # (# 💬 Invited Talks)
 
