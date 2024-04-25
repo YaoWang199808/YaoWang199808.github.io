@@ -39,7 +39,7 @@ I will be starting as a Ph.D. student at the Department of Computer Science of t
 </div>
 
 # 📝 Publications 
-* [DPSUR: Accelerating Differentially Private Stochastic Gradient Descent Using Selective Update and Release.](https://arxiv.org/pdf/2311.14056.pdf)\
+* [DPSUR: Accelerating Differentially Private Stochastic Gradient Descent Using Selective Update and Release.](https://arxiv.org/abs/2311.14056)\
 **Jie Fu**, Qingqing Ye, Haibo Hu, Zhili Chen, Lulu Wang, Kuncan Wang, Ran Xun.\
 **VLDB, 2024** 
 
