@@ -127,26 +127,23 @@ Yang Hao, **Jie Fu**, Zhili Chen, Haifeng Qian.
 # 🎙 Hobbies
 - Soccer, graduate school team leader. 
 - Guitar, graduate school club guitar instructor.
-- Badminton, level 5.0.
+- Badminton, level 4.5.
 - Tennis, level 2.0.
 - Ski, blue slope.
 
 Other activities I engage in include volleyball, swimming, squash, and so on.
 
-<div>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6t2b3l88RZ9a7qlvRElY8U?utm_source=generator" width="50%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-</div>
 
 # 🎧 Monthly Song
+<div>
+
+<iframe style="border-radius:8px" src="https://open.spotify.com/embed/track/6t2b3l88RZ9a7qlvRElY8U?utm_source=generator" width="40%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+</div>
 <div class="scrollable">
  <ul>
-<li><strong>2024.04</strong>:&nbsp;《思念病》- step.jad </li> 
-<li><strong>2024.02</strong>:: &nbsp;🎉 One co-first author paper is accepted by WoWMoM'24. </li>
-<li><strong>2024.01</strong>: &nbsp; I have joined the <a href="https://www-alg.ist.hokudai.ac.jp/?page_id=321&lang=en">Laboratory for Algorithmics </a> at Hokkaido University as Research Assistant, under the supervision of <a href="https://yangcao88.github.io/">Dr. Yang Cao</a>, focusing on privacy in the LLM. </li>
-<li><strong>2023.11</strong>:: &nbsp;🎉 One first-authored paper is accepted by VLDB'24. </li>
-<li><strong>2023.03</strong>:: &nbsp; I have joined the <a href="https://www.astaple.com/">ASTAPLE lab </a> at Hong Kong Polytechnic University as Research Assistant, under the supervision of <a href="https://haibohu.org/">Prof. Haibo Hu</a> and <a href="https://www.qingqingye.net/">Dr. Qingqing Ye</a>.</li>
+<li><strong>2024.04</strong>:&nbsp;《思念病》- step.jad </li>
 </ul>
 </div>
 
@@ -156,4 +153,4 @@ Other activities I engage in include volleyball, swimming, squash, and so on.
 
 </div>
 
-Last updated on: 2024.04.23.
+Last updated on: 2024.04.26.

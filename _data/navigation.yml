@@ -19,8 +19,11 @@ main:
 #    url: "/#-invited-talks"
 
   - title: "Works/Internships"
-    url: "/#-works/Internships"
+    url: "/#-works/internships"
 
   - title: "Hobbies"
     url: "/#-hobbies"
+
+  - title: "Monthly Song"
+    url: "/#-monthly-song"
 
