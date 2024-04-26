@@ -10,7 +10,7 @@ redirect_from:
 
 # 🧐 About Me
 Hi, I am a third-year master student with the Software Engineering Institute, [East China Noraml University](https://english.ecnu.edu.cn/), under the supervision of [Prof. Zhili Chen](https://faculty.ecnu.edu.cn/_s43/czl2/main.psp). 
-I will be starting as a Ph.D. student at the Department of Computer Science of the [Stevens Institute of Technology](https://www.stevens.edu/) in 2024 Fall, advised by [Prof. Wendy Hui Wang](https://sites.google.com/view/wendy-wang/home).
+I will be starting as a Computer Science Ph.D. student at the [Stevens Institute of Technology](https://www.stevens.edu/) in 2024 Fall, advised by [Prof. Wendy Hui Wang](https://sites.google.com/view/wendy-wang/home).
 
 [//]: # (From March 2023 to November 2023, I worked as a Research Assistant at the [ASTAPLE lab]&#40;https://www.astaple.com/&#41; of Hong Kong Polytechnic University, under the supervision of [Prof. Haibo Hu]&#40;https://haibohu.org/&#41; and [Dr. Qingqing Ye]&#40;https://www.qingqingye.net/&#41;. )
 
@@ -138,7 +138,7 @@ Other activities I engage in include volleyball, swimming, squash, and so on.
 # 🎧 Monthly Song
 <div>
 
-<iframe style="border-radius:8px" src="https://open.spotify.com/embed/track/6t2b3l88RZ9a7qlvRElY8U?utm_source=generator" width="40%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:8px" src="https://open.spotify.com/embed/track/6t2b3l88RZ9a7qlvRElY8U?utm_source=generator" width="40%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 </div>
 <div class="scrollable">
