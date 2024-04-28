@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # 🧐 About Me
-Hi, I am a third-year master student with the Software Engineering Institute, [East China Noraml University](https://english.ecnu.edu.cn/), under the supervision of [Prof. Zhili Chen](https://faculty.ecnu.edu.cn/_s43/czl2/main.psp). 
+Hi, I am a third-year master student at the Software Engineering Institute, [East China Noraml University](https://english.ecnu.edu.cn/), under the supervision of [Prof. Zhili Chen](https://faculty.ecnu.edu.cn/_s43/czl2/main.psp). 
 I will be starting as a Computer Science Ph.D. student at the [Stevens Institute of Technology](https://www.stevens.edu/) in 2024 Fall, advised by [Prof. Wendy Hui Wang](https://sites.google.com/view/wendy-wang/home).
 
 [//]: # (From March 2023 to November 2023, I worked as a Research Assistant at the [ASTAPLE lab]&#40;https://www.astaple.com/&#41; of Hong Kong Polytechnic University, under the supervision of [Prof. Haibo Hu]&#40;https://haibohu.org/&#41; and [Dr. Qingqing Ye]&#40;https://www.qingqingye.net/&#41;. )
@@ -30,11 +30,11 @@ I will be starting as a Computer Science Ph.D. student at the [Stevens Institute
 
 <div class="scrollable">
  <ul>
-<li><strong>2024.03</strong>:&nbsp;🎉 One paper is accepted by ICDE'24. </li> 
-<li><strong>2024.02</strong>:: &nbsp;🎉 One co-first author paper is accepted by WoWMoM'24. </li>
+<li><strong>2024.03</strong>: &nbsp;🎉 One paper is accepted by ICDE'24. </li> 
+<li><strong>2024.02</strong>: &nbsp;🎉 One co-first author paper is accepted by WoWMoM'24. </li>
 <li><strong>2024.01</strong>: &nbsp; I have joined the <a href="https://www-alg.ist.hokudai.ac.jp/?page_id=321&lang=en">Laboratory for Algorithmics </a> at Hokkaido University as Research Assistant, under the supervision of <a href="https://yangcao88.github.io/">Dr. Yang Cao</a>, focusing on privacy in the LLM. </li>
-<li><strong>2023.11</strong>:: &nbsp;🎉 One first-authored paper is accepted by VLDB'24. </li>
-<li><strong>2023.03</strong>:: &nbsp; I have joined the <a href="https://www.astaple.com/">ASTAPLE lab </a> at Hong Kong Polytechnic University as Research Assistant, under the supervision of <a href="https://haibohu.org/">Prof. Haibo Hu</a> and <a href="https://www.qingqingye.net/">Dr. Qingqing Ye</a>.</li>
+<li><strong>2023.11</strong>: &nbsp;🎉 One first-authored paper is accepted by VLDB'24. </li>
+<li><strong>2023.03</strong>: &nbsp; I have joined the <a href="https://www.astaple.com/">ASTAPLE lab </a> at Hong Kong Polytechnic University as Research Assistant, under the supervision of <a href="https://haibohu.org/">Prof. Haibo Hu</a> and <a href="https://www.qingqingye.net/">Dr. Qingqing Ye</a>.</li>
 </ul>
 </div>
 
