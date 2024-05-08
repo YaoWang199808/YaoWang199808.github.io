@@ -114,6 +114,7 @@ Yang Hao, **Jie Fu**, Zhili Chen, Haifeng Qian.
 
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
 
+
 # 💻 Works/Internships
 - *2024.04 - Now*, [INF](https://www.infly.cn/), LLM Intern, Shanghai.
 - *2024.01 - 2024.04*, [Hokkaidao University](https://www.hokudai.ac.jp/), Research Assistant, Hokkaidao.
@@ -122,6 +123,9 @@ Yang Hao, **Jie Fu**, Zhili Chen, Haifeng Qian.
 - *2018.07 - 2021.08*, [YLZ](http://www.ylzinfo.com/), Product Manager (Full-time job), Xiamen.
 - *2018.01 - 2021.06*, [Shimao](https://www.shimaoco.com/), Management Trainee of Real Estate Consultant , Quanzhou.
 
+# ✒️ Professional Service
+Journal Reviewer
+- Furure Generation Computer Systems  **(SCI Q1)**
 
 
 # 🎙 Hobbies
@@ -162,4 +166,4 @@ Other activities I engage in include volleyball, swimming, squash, and so on.
 
 </div>
 
-Last updated on: 2024.04.26.
+Last updated on: 2024.05.08.
