@@ -128,7 +128,7 @@ Journal Reviewer
 - Furure Generation Computer Systems  **(SCI Q1)**
 
 
-# 🎙 Hobbies
+# ⚽ Hobbies
 - Soccer, graduate school team leader. 
 - Guitar, graduate school club guitar instructor.
 - Badminton, level 4.5.
