@@ -15,9 +15,9 @@ I will be starting as a Computer Science Ph.D. student at the [Stevens Institute
 [//]: # (From March 2023 to November 2023, I worked as a Research Assistant at the [ASTAPLE lab]&#40;https://www.astaple.com/&#41; of Hong Kong Polytechnic University, under the supervision of [Prof. Haibo Hu]&#40;https://haibohu.org/&#41; and [Dr. Qingqing Ye]&#40;https://www.qingqingye.net/&#41;. )
 
 ### 🤔 Research Interests:
-* Differential privacy.
-* Federated learning.
-* Trustworthy machine learning (fairness, privacy and robustness).
+* Differential Privacy.
+* Federated Learning.
+* Trustworthy Machine Learning (fairness, privacy and robustness).
 
 
 # 🔥 News
