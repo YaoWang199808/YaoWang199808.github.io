@@ -55,20 +55,18 @@ Huifa Li, **Jie Fu (co-first author)**, Zhili Chen, Xiaomin Yang, Haitao Liu, Xi
 Xun Ran, Qingqing Ye, Haibo Hu, Xin Huang, Jianliang Xu, **Jie Fu**. \
 **ICDE, 2024** 
 
-
 * [ALI-DPFL: Differentially Private Federated Learning with Adaptive Local Iterations.](https://arxiv.org/abs/2308.10457)\
 Xinpeng Ling, **Jie Fu (co-first author)**, Kuncan Wang, Haitao Liu, Zhili Chen.\
 **WoWMoM, 2024** 
 
+* [Hierarchical federated learning with global differential privacy.](https://www.aimspress.com/aimspress-data/era/2023/7/PDF/era-31-07-190.pdf)\
+Long Youqun, Jianhui Zhang, Gaoli Wang, **Jie Fu**.\
+**Electronic Research Archive, 2023** 
 
 * [Adap DP-FL: Differentially Private Federated Learning with Adaptive Noise.](https://ieeexplore.ieee.org/abstract/document/10063613)\
 **Jie Fu**, Zhili Chen, Xiao Han.\
-**TrustCom, 2022**  (Acceptance rate 101/404=25%) 
+**TrustCom, 2022**  (Acceptance rate 101/404=25%)
 
-
-* [Hierarchical federated learning with global differential privacy.](https://www.aimspress.com/aimspress-data/era/2023/7/PDF/era-31-07-190.pdf)\
-Long Youqun, Jianhui Zhang, Gaoli Wang, **Jie Fu**.\
-**Electronic Research Archive 31.7 (2023): 3741-3758** 
 
 [//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>)
 
