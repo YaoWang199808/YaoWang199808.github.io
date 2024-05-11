@@ -30,6 +30,7 @@ I will be starting as a Computer Science Ph.D. student at the [Stevens Institute
 
 <div class="scrollable">
  <ul>
+<li><strong>2024.02</strong>: &nbsp;🎉 One co-first author paper is accepted by ICIC'24. </li>
 <li><strong>2024.03</strong>: &nbsp;🎉 One paper is accepted by ICDE'24. </li> 
 <li><strong>2024.02</strong>: &nbsp;🎉 One co-first author paper is accepted by WoWMoM'24. </li>
 <li><strong>2024.01</strong>: &nbsp; I have joined the <a href="https://www-alg.ist.hokudai.ac.jp/?page_id=321&lang=en">Laboratory for Algorithmics </a> at Hokkaido University as Research Assistant, under the supervision of <a href="https://yangcao88.github.io/">Dr. Yang Cao</a>, focusing on privacy in the LLM. </li>
@@ -39,6 +40,12 @@ I will be starting as a Computer Science Ph.D. student at the [Stevens Institute
 </div>
 
 # 📝 Publications 
+
+* [DP-DCAN: Differentially Private Deep Contrastive Autoencoder Network for Single-cell Clustering.](https://arxiv.org/abs/2311.03410)\
+Huifa Li, **Jie Fu (co-first author)**, Zhili Chen, Xiaomin Yang, Haitao Liu, Xinpeng Ling.
+**ICIC, 2024** 
+
+
 * [DPSUR: Accelerating Differentially Private Stochastic Gradient Descent Using Selective Update and Release.](https://arxiv.org/abs/2311.14056)\
 **Jie Fu**, Qingqing Ye, Haibo Hu, Zhili Chen, Lulu Wang, Kuncan Wang, Ran Xun.\
 **VLDB, 2024** 
@@ -90,10 +97,6 @@ Long Youqun, Jianhui Zhang, Gaoli Wang, **Jie Fu**.\
 **Jie Fu**, Zhiyu Sun, Haitao Liu, Zhili Chen.
 
 
-* [DP-DCAN: Differentially Private Deep Contrastive Autoencoder Network for Single-cell Clustering.](https://arxiv.org/abs/2311.03410)\
-Huifa Li, **Jie Fu (co-first author)**, Zhili Chen, Xiaomin Yang, Haitao Liu, Xinpeng Ling.
-
-
 * [Enhancing SCF with Privacy-Preserving and Splitting-Enabled E-Bills on Blockchain.](https://arxiv.org/abs/2308.10020)\
 Yang Hao, **Jie Fu**, Zhili Chen, Haifeng Qian.
 
@@ -114,8 +117,12 @@ Yang Hao, **Jie Fu**, Zhili Chen, Haifeng Qian.
 
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
 
+# 🏆 Honors and Awards
+- Outstanding Master Graduate of Shanghai, 2024. 
 
-# 💻 Works
+
+
+# 💻 Internship
 - *2024.04 - Now*, [INF](https://www.infly.cn/), LLM Intern, Shanghai.
 - *2024.01 - 2024.04*, [Hokkaidao University](https://www.hokudai.ac.jp/), Research Assistant, Hokkaidao.
 - *2023.03 - 2023.11*, [PolyU](https://www.polyu.edu.hk/), Research Assistant, Hongkong.

@@ -17,9 +17,11 @@ main:
 #
 #  - title: "Invited Talks"
 #    url: "/#-invited-talks"
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
 
-  - title: "Works"
-    url: "/#-works"
+  - title: "Internship"
+    url: "/#-internship"
 
   - title: "Professional Service"
     url: "/#-professional-service"
