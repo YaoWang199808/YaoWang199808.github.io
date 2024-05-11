@@ -30,7 +30,7 @@ I will be starting as a Computer Science Ph.D. student at the [Stevens Institute
 
 <div class="scrollable">
  <ul>
-<li><strong>2024.02</strong>: &nbsp;🎉 One co-first author paper is accepted by ICIC'24. </li>
+<li><strong>2024.05</strong>: &nbsp;🎉 One co-first author paper is accepted by ICIC'24. </li>
 <li><strong>2024.03</strong>: &nbsp;🎉 One paper is accepted by ICDE'24. </li> 
 <li><strong>2024.02</strong>: &nbsp;🎉 One co-first author paper is accepted by WoWMoM'24. </li>
 <li><strong>2024.01</strong>: &nbsp; I have joined the <a href="https://www-alg.ist.hokudai.ac.jp/?page_id=321&lang=en">Laboratory for Algorithmics </a> at Hokkaido University as Research Assistant, under the supervision of <a href="https://yangcao88.github.io/">Dr. Yang Cao</a>, focusing on privacy in the LLM. </li>
@@ -121,8 +121,7 @@ Yang Hao, **Jie Fu**, Zhili Chen, Haifeng Qian.
 - Outstanding Master Graduate of Shanghai, 2024. 
 
 
-
-# 💻 Internship
+# 💻 Internships
 - *2024.04 - Now*, [INF](https://www.infly.cn/), LLM Intern, Shanghai.
 - *2024.01 - 2024.04*, [Hokkaidao University](https://www.hokudai.ac.jp/), Research Assistant, Hokkaidao.
 - *2023.03 - 2023.11*, [PolyU](https://www.polyu.edu.hk/), Research Assistant, Hongkong.
