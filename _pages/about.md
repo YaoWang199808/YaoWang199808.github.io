@@ -42,7 +42,7 @@ I will be starting as a Computer Science Ph.D. student at the [Stevens Institute
 # 📝 Publications 
 
 * [DP-DCAN: Differentially Private Deep Contrastive Autoencoder Network for Single-cell Clustering.](https://arxiv.org/abs/2311.03410)\
-Huifa Li, **Jie Fu (co-first author)**, Zhili Chen, Xiaomin Yang, Haitao Liu, Xinpeng Ling.
+Huifa Li, **Jie Fu (co-first author)**, Zhili Chen, Xiaomin Yang, Haitao Liu, Xinpeng Ling. \
 **ICIC, 2024** 
 
 
