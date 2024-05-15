@@ -65,7 +65,7 @@ Long Youqun, Jianhui Zhang, Gaoli Wang, **Jie Fu**.\
 
 * [Adap DP-FL: Differentially Private Federated Learning with Adaptive Noise.](https://ieeexplore.ieee.org/abstract/document/10063613)\
 **Jie Fu**, Zhili Chen, Xiao Han.\
-**TrustCom, 2022**  (Acceptance rate 101/404=25%)
+**TrustCom, 2022** 
 
 
 [//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>)
@@ -91,6 +91,11 @@ Long Youqun, Jianhui Zhang, Gaoli Wang, **Jie Fu**.\
 
 
 ### Preprint
+* [Differentially Private Federated Learning: A Systematic Review.](https://arxiv.org/abs/2405.08299)\
+**Jie Fu**, Yuan Hong, Xinpeng Ling, Leixia Wang, Xun Ran, Zhiyu Sun, Wendy Hui Wang, Zhili Chen, Yang Cao \
+**Submitted to ACM Survey** 
+
+
 * [Truncated Laplace and Gaussian mechanisms of RDP.](https://arxiv.org/abs/2309.12647)\
 **Jie Fu**, Zhiyu Sun, Haitao Liu, Zhili Chen.
 
