@@ -111,7 +111,7 @@ Yang Hao, **Jie Fu**, Zhili Chen, Haifeng Qian.
 [//]: # (- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 📖 Educations
-- *2021.09 - 2024.05 (now)*, Master, East China Noraml University, Shanghai, China. 
+- *2021.09 - 2024.05*, Master, East China Noraml University, Shanghai, China. 
 - *2014.09 - 2018.06*, Undergraduate, Huaqiao University, Quanzhou, China. 
 
 [//]: # (# 💬 Invited Talks)
