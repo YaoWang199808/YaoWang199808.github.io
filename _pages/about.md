@@ -144,14 +144,14 @@ Journal Reviewer
 - Tennis, level 2.0.
 - Ski, blue slope.
 
-Other activities I engage in include volleyball, swimming, squash, and so on.
+Other activities I engage in include volleyball, swimming, squash, chinese chess and so on.
 
 
 
 # 🎧 Monthly Song
 <div>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/38qQqIxE80HGZWbhCfN7hp?utm_source=generator"  width="40%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3wFIi2zpD28fcGfEYAsipR?utm_source=generator" width="50%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
 
 <style>
@@ -163,6 +163,7 @@ Other activities I engage in include volleyball, swimming, squash, and so on.
 
 <div class="scrollable2">
  <ul>
+<li><strong>2024.06</strong>:&nbsp;《思念》- 蔡健雅 </li>
 <li><strong>2024.05</strong>:&nbsp;《猫》- Dish </li>
 <li><strong>2024.04</strong>:&nbsp;《思念病》- step.jad </li>
 <li><strong>2024.03</strong>:&nbsp;《Savior》- LeeHi </li>
