@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 # 🧐 About Me
-Hi, I am a third-year master student at the Software Engineering Institute, [East China Noraml University](https://english.ecnu.edu.cn/), under the supervision of [Prof. Zhili Chen](https://faculty.ecnu.edu.cn/_s43/czl2/main.psp). 
-I will be starting as a Computer Science Ph.D. student at the [Stevens Institute of Technology](https://www.stevens.edu/) in 2024 Fall, advised by [Prof. Wendy Hui Wang](https://sites.google.com/view/wendy-wang/home).
+Hi, I am a first-year Ph.D. student of the [Stevens Institute of Technology](https://www.stevens.edu/), advised by [Prof. Wendy Hui Wang](https://sites.google.com/view/wendy-wang/home). Before that, I got my master degree from [East China Noraml University](https://english.ecnu.edu.cn/), under the supervision of [Prof. Zhili Chen](https://faculty.ecnu.edu.cn/_s43/czl2/main.psp). 
+
 
 [//]: # (From March 2023 to November 2023, I worked as a Research Assistant at the [ASTAPLE lab]&#40;https://www.astaple.com/&#41; of Hong Kong Polytechnic University, under the supervision of [Prof. Haibo Hu]&#40;https://haibohu.org/&#41; and [Dr. Qingqing Ye]&#40;https://www.qingqingye.net/&#41;. )
 
