@@ -138,13 +138,11 @@ Journal Reviewer
 
 
 # ⚽ Hobbies
-- Soccer, graduate school team leader. 
-- Guitar, graduate school club guitar instructor.
-- Badminton, level 4.5.
-- Tennis, level 2.0.
-- Ski, blue slope.
+- Soccer, college team captain. 
+- Guitar, club guitar instructor of college.
+- Badminton, college team.
 
-Other activities I engage in include volleyball, swimming, squash, chinese chess and so on.
+Other activities I engage in include badminton, ski, tennis, volleyball, swimming, squash, chinese chess and so on.
 
 
 
