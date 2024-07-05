@@ -142,7 +142,7 @@ Journal Reviewer
 - Guitar, club guitar instructor of college.
 - Badminton, college team.
 
-Other activities I engage in include badminton, ski, tennis, volleyball, swimming, squash, chinese chess and so on.
+Other activities I engage in include ski, tennis, volleyball, swimming, squash, billiards, chinese chess and so on.
 
 
 
@@ -154,7 +154,7 @@ Other activities I engage in include badminton, ski, tennis, volleyball, swimmin
 
 <style>
   .scrollable2 {
-    max-height: 120px; 
+    max-height: 80px; 
     overflow-y: scroll; 
   }
 </style>
@@ -174,4 +174,4 @@ Other activities I engage in include badminton, ski, tennis, volleyball, swimmin
 
 </div>
 
-Last updated on: 2024.06.08.
+Last updated on: 2024.06.30.
