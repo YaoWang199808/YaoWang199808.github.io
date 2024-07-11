@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # 🧐 About Me
-Hi, I am a first-year Ph.D. student of the [Stevens Institute of Technology](https://www.stevens.edu/), advised by [Prof. Wendy Hui Wang](https://sites.google.com/view/wendy-wang/home). Before that, I got my master degree from [East China Noraml University](https://english.ecnu.edu.cn/), under the supervision of [Prof. Zhili Chen](https://faculty.ecnu.edu.cn/_s43/czl2/main.psp). 
+Hi, I am a first-year Ph.D. student of the [Stevens Institute of Technology](https://www.stevens.edu/), advised by [Prof. Wendy Hui Wang](https://sites.google.com/view/wendy-wang/home). Before that, I got my master degree from [East China Noraml University](https://english.ecnu.edu.cn/), under the supervision of [Prof. Zhili Chen](https://faculty.ecnu.edu.cn/_s43/czl2/main.psp). I have worked as a research assistant at the Hong Kong Polytechnic University (under the supervision of <a href="https://haibohu.org/">Prof. Haibo Hu</a> and <a href="https://www.qingqingye.net/">Dr. Qingqing Ye</a> ) and Hokkaido University (under the supervision of <a href="https://yangcao88.github.io/">Dr. Yang Cao</a>).
 
 
 [//]: # (From March 2023 to November 2023, I worked as a Research Assistant at the [ASTAPLE lab]&#40;https://www.astaple.com/&#41; of Hong Kong Polytechnic University, under the supervision of [Prof. Haibo Hu]&#40;https://haibohu.org/&#41; and [Dr. Qingqing Ye]&#40;https://www.qingqingye.net/&#41;. )
@@ -130,7 +130,7 @@ Yang Hao, **Jie Fu**, Zhili Chen, Haifeng Qian.
 - *2023.03 - 2023.11*, [PolyU](https://www.polyu.edu.hk/), Research Assistant, Hongkong.
 - *2022.02 - 2023.02*, [Geely](https://www.geelydt.com/), Blockchain Privacy Computing Intern, Shanghai.
 - *2018.07 - 2021.08*, [YLZ](http://www.ylzinfo.com/), Product Manager (Full-time job), Xiamen.
-- *2018.01 - 2021.06*, [Shimao](https://www.shimaoco.com/), Management Trainee of Real Estate Consultant , Quanzhou.
+- *2018.01 - 2018.06*, [Shimao](https://www.shimaoco.com/), Management Trainee of Real Estate Consultant , Quanzhou.
 
 # ✒️ Professional Service
 Journal Reviewer
