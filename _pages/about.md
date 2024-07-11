@@ -51,7 +51,7 @@ Huifa Li, **Jie Fu (co-first author)**, Zhili Chen, Xiaomin Yang, Haitao Liu, Xi
 **VLDB, 2024** 
 
 
-* Differentially Private Graph Neural Networks for Link Prediction. \
+* [Differentially Private Graph Neural Networks for Link Prediction.](https://www.comp.hkbu.edu.hk/~xinhuang/publications/pdfs/ICDE24-DP-GNN.pdf) \
 Xun Ran, Qingqing Ye, Haibo Hu, Xin Huang, Jianliang Xu, **Jie Fu**. \
 **ICDE, 2024** 
 
