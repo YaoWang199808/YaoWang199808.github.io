@@ -55,13 +55,16 @@ Huifa Li, **Jie Fu (co-first author)**, Zhili Chen, Xiaomin Yang, Haitao Liu, Xi
 Xun Ran, Qingqing Ye, Haibo Hu, Xin Huang, Jianliang Xu, **Jie Fu**. \
 **ICDE, 2024** 
 
+
 * [ALI-DPFL: Differentially Private Federated Learning with Adaptive Local Iterations.](https://arxiv.org/abs/2308.10457)\
 Xinpeng Ling, **Jie Fu (co-first author)**, Kuncan Wang, Haitao Liu, Zhili Chen.\
 **WoWMoM, 2024** 
 
+
 * [Hierarchical federated learning with global differential privacy.](https://www.aimspress.com/aimspress-data/era/2023/7/PDF/era-31-07-190.pdf)\
 Long Youqun, Jianhui Zhang, Gaoli Wang, **Jie Fu**.\
 **Electronic Research Archive, 2023** 
+
 
 * [Adap DP-FL: Differentially Private Federated Learning with Adaptive Noise.](https://ieeexplore.ieee.org/abstract/document/10063613)\
 **Jie Fu**, Zhili Chen, Xiao Han.\
@@ -100,9 +103,6 @@ Long Youqun, Jianhui Zhang, Gaoli Wang, **Jie Fu**.\
 **Jie Fu**, Zhiyu Sun, Haitao Liu, Zhili Chen.
 
 
-* [Enhancing SCF with Privacy-Preserving and Splitting-Enabled E-Bills on Blockchain.](https://arxiv.org/abs/2308.10020)\
-Yang Hao, **Jie Fu**, Zhili Chen, Haifeng Qian.
-
 
 [//]: # (# 🎖 Honors and Awards)
 
@@ -129,7 +129,7 @@ Yang Hao, **Jie Fu**, Zhili Chen, Haifeng Qian.
 - *2024.01 - 2024.04*, [Hokkaidao University](https://www.hokudai.ac.jp/), Research Assistant, Hokkaidao.
 - *2023.03 - 2023.11*, [PolyU](https://www.polyu.edu.hk/), Research Assistant, Hongkong.
 - *2022.02 - 2023.02*, [Geely](https://www.geelydt.com/), Blockchain Privacy Computing Intern, Shanghai.
-- *2018.07 - 2021.08*, [YLZ](http://www.ylzinfo.com/), Product Manager (Full-time job), Xiamen.
+- *2018.07 - 2021.08*, [YLZ](http://www.ylzinfo.com/), Internet Product Manager (Full-time job), Xiamen.
 - *2018.01 - 2018.06*, [Shimao](https://www.shimaoco.com/), Management Trainee of Real Estate Consultant , Quanzhou.
 
 # ✒️ Professional Service
@@ -140,17 +140,16 @@ Journal Reviewer
 # ⚽ Hobbies
 - Soccer, college team captain. 
 - Guitar, club guitar instructor of college.
+- Tennis, 3.0.
 
-Other activities I engage in include badminton, tennis, ski, volleyball, swimming, squash, billiards, chinese chess and so on.
+Other activities I engage in include badminton, ski, volleyball, swimming, squash, billiards, chinese chess and so on.
 
 
 
  # 🎧 Monthly Song
- 
-  <div>
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3wFIi2zpD28fcGfEYAsipR?utm_source=generator" width="50%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
- </div>
-
+<div>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/39fG2mKSmMqILPXjoBp1T2?utm_source=generator" width="50%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
 <style>
    .scrollable2 {
     max-height: 80px; 
@@ -160,7 +159,10 @@ Other activities I engage in include badminton, tennis, ski, volleyball, swimmin
 
  <div class="scrollable2">
  <ul>
- <li><strong>2024.06</strong>:&nbsp;《思念》- 蔡健雅 </li>
+ <li><strong>2024.09</strong>:&nbsp;《太阳照常升起》- 陈奕迅 </li>
+ <li><strong>2024.08</strong>:&nbsp;《达尔文》- 蔡健雅 </li>
+ <li><strong>2024.07</strong>:&nbsp;《梨花又开放》- 韩红 </li>
+ <li><strong>2024.06</strong>:&nbsp;《思念》- 黄宣 </li>
  <li><strong>2024.05</strong>:&nbsp;《猫》- Dish </li>
  <li><strong>2024.04</strong>:&nbsp;《思念病》- step.jad </li>
  <li><strong>2024.03</strong>:&nbsp;《Savior》- LeeHi </li>
@@ -173,4 +175,4 @@ Other activities I engage in include badminton, tennis, ski, volleyball, swimmin
 
 </div>
 
-Last updated on: 2024.06.30.
+Last updated on: 2024.09.30.
