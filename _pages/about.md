@@ -47,7 +47,7 @@ Huifa Li, **Jie Fu (co-first author)**, Zhili Chen, Xiaomin Yang, Haitao Liu, Xi
 
 * [DPSUR: Accelerating Differentially Private Stochastic Gradient Descent Using Selective Update and Release.](https://arxiv.org/abs/2311.14056)\
 **Jie Fu**, Qingqing Ye, Haibo Hu, Zhili Chen, Lulu Wang, Kuncan Wang, Ran Xun.\
-**Very Large Data Bases Conference (VLDB), 2024** 
+**International Conference on Very Large Data Bases Conference (VLDB), 2024** 
 
 
 * [Differentially Private Graph Neural Networks for Link Prediction.](https://www.comp.hkbu.edu.hk/~xinhuang/publications/pdfs/ICDE24-DP-GNN.pdf) \
