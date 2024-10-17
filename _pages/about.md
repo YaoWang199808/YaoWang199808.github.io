@@ -43,22 +43,21 @@ Hi, I am a PhD candidate of the [Stevens Institute of Technology](https://www.st
 
 * [DP-DCAN: Differentially Private Deep Contrastive Autoencoder Network for Single-cell Clustering.](https://arxiv.org/abs/2311.03410)\
 Huifa Li, **Jie Fu (co-first author)**, Zhili Chen, Xiaomin Yang, Haitao Liu, Xinpeng Ling. \
-**ICIC, 2024** 
-
+**International Conference on Intelligent  Computing (ICIC), 2024**
 
 * [DPSUR: Accelerating Differentially Private Stochastic Gradient Descent Using Selective Update and Release.](https://arxiv.org/abs/2311.14056)\
 **Jie Fu**, Qingqing Ye, Haibo Hu, Zhili Chen, Lulu Wang, Kuncan Wang, Ran Xun.\
-**VLDB, 2024** 
+**Very Large Data Bases Conference (VLDB), 2024** 
 
 
 * [Differentially Private Graph Neural Networks for Link Prediction.](https://www.comp.hkbu.edu.hk/~xinhuang/publications/pdfs/ICDE24-DP-GNN.pdf) \
 Xun Ran, Qingqing Ye, Haibo Hu, Xin Huang, Jianliang Xu, **Jie Fu**. \
-**ICDE, 2024** 
+**IEEE International Conference on Data Engineering (ICDE), 2024** 
 
 
 * [ALI-DPFL: Differentially Private Federated Learning with Adaptive Local Iterations.](https://arxiv.org/abs/2308.10457)\
 Xinpeng Ling, **Jie Fu (co-first author)**, Kuncan Wang, Haitao Liu, Zhili Chen.\
-**WoWMoM, 2024** 
+**IEEE International Symposium on World of Wireless Mobile and Multimedia Networks (WoWMoM), 2024** 
 
 
 * [Hierarchical federated learning with global differential privacy.](https://www.aimspress.com/aimspress-data/era/2023/7/PDF/era-31-07-190.pdf)\
@@ -68,7 +67,7 @@ Long Youqun, Jianhui Zhang, Gaoli Wang, **Jie Fu**.\
 
 * [Adap DP-FL: Differentially Private Federated Learning with Adaptive Noise.](https://ieeexplore.ieee.org/abstract/document/10063613)\
 **Jie Fu**, Zhili Chen, Xiao Han.\
-**TrustCom, 2022** 
+**IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2022** 
 
 
 [//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>)
