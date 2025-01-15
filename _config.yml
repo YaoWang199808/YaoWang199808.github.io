@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yao Wang"
 description              : "Ph.D. student at Stevens."
-repository               : " yaowang199808.github.io/YaoWang.github.io"
+repository               : "yaowang199808.github.io/YaoWang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=ja&user=VcgK6nAAAAAJ"
-  email            : "jfu13@stevens.edu"
+  email            : "ywang504@stevens.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "JeffffffFu"
+  github           : "YaoWang199808"
   google_plus      :
   keybase          :
   instagram        :
@@ -57,8 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  bilibili         :  "https://space.bilibili.com/80356866?spm_id_from=333.1007.0.0"
-
+ 
 # Reading Files
 include:
   - .htaccess
