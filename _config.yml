@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yao Wang"
+title                    : "Yao Wang's personal website"
 description              : "Ph.D. student at Stevens."
-repository               : "yaowang199808.github.io/YaoWang.github.io"
+repository               : "yaowang199808.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
