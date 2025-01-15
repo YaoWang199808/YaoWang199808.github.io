@@ -69,12 +69,6 @@ Hi, I am a PhD student at the [Stevens Institute of Technology](https://www.stev
 
 Other activities I engage in include badminton,  table tennis, chinese chess and so on.
 
-
- </ul>
- </div>
-
- <div>
-
 -----------------------------------------
 
 </div>
