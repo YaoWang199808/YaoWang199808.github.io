@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # 🧐 About Me
-Hi, I am a PhD student at the [Stevens Institute of Technology](https://www.stevens.edu/), advised by Prof. Yi Bao.My main research area is **machine learning in acoustic monitoring**. Before that, I got my master degree from [Shenzhen University](((https://en.szu.edu.cn/))), with the supervision of Prof. Jianbo Zhu. At SZU, my research areas are **Rock Mechanics** and **Wave Propagation**.
+Hi, I am a PhD student at the [Stevens Institute of Technology](https://www.stevens.edu/), advised by </strong> Prof. Yi Bao</strong>. My main research area is **machine learning in acoustic monitoring**. Before that, I got my master degree from [Shenzhen University](((https://en.szu.edu.cn/))), with the supervision of </strong>Prof. Jianbo Zhu</strong>. At SZU, my research areas are **Rock Mechanics** and **Wave Propagation**.
 
 ### 🤔 Research Interests:
 * AI for Science.
