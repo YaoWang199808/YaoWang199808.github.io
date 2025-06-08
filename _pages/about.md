@@ -20,12 +20,17 @@ Hi, I am a PhD student at the [Stevens Institute of Technology](https://www.stev
 # 🔥 News
 <div class="scrollable">
  <ul>
+<li><strong>2025.05</strong>: &nbsp;🎉 Our recent work on underwater acoustic fiber-optic sensing has been presented at the 29th International Conference on Optical Fiber Sensors (OFS-29), a leading forum in the field of photonic sensing technologies.</strong>. </li>
 <li><strong>2024.09</strong>: &nbsp; I have joined the <strong>Stevens Institute of technology</strong> as a <strong>Ph.D. student</strong>, focusing on the  <strong>AI for acoustic monitoring</strong>. </li>
 <li><strong>2024.07</strong>: &nbsp;🎉 One first-authored paper is accepted by <strong>Journal of Vibration and Shock</strong>. </li>
 </ul>
 </div>
 
 # 📝 Publications 
+
+* [Detection of waves and sea-surface vessels via time-domain-only analysis of underwater DAS data]([https://jvs.sjtu.edu.cn/EN/Y2025/V44/I2/40](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13639/136392N/Detection-of-waves-and-sea-surface-vessels-via-time-domain/10.1117/12.3061604.short))\
+ Sarper Ozharar, Yue Tian, Yangmin Ding, Zhuocheng Jiang, Jian Fang, **Yao Wang**, Yi Bao, Ting Wang. \
+**29th International Conference on Optical Fiber Sensors**
 
 * [Numerical investigation of the vibration reduction and isolation effect of barrier holes under blasting load.](https://jvs.sjtu.edu.cn/EN/Y2025/V44/I2/40)\
 **Yao Wang**, Zhiyi Liao, Yan Chen, Xing Zhao, Weixiong Tang, Weiyue Bao, Jiaxin Sun, Jianbo Zhu. \
