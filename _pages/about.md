@@ -28,7 +28,7 @@ Hi, I am a PhD student at the [Stevens Institute of Technology](https://www.stev
 
 # 📝 Publications 
 
-* [Detection of waves and sea-surface vessels via time-domain-only analysis of underwater DAS data]([https://jvs.sjtu.edu.cn/EN/Y2025/V44/I2/40](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13639/136392N/Detection-of-waves-and-sea-surface-vessels-via-time-domain/10.1117/12.3061604.short)\
+* [Detection of waves and sea-surface vessels via time-domain-only analysis of underwater DAS data.](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13639/136392N/Detection-of-waves-and-sea-surface-vessels-via-time-domain/10.1117/12.3061604.short)\
  Sarper Ozharar, Yue Tian, Yangmin Ding, Zhuocheng Jiang, Jian Fang, **Yao Wang**, Yi Bao, Ting Wang. \
 **29th International Conference on Optical Fiber Sensors**
 
