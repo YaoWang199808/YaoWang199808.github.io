@@ -32,7 +32,7 @@ Hi, I am a PhD student at the [Stevens Institute of Technology](https://www.stev
 * [Detection of waves and sea-surface vessels via time-domain-only analysis of underwater DAS data.](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13639/136392N/Detection-of-waves-and-sea-surface-vessels-via-time-domain/10.1117/12.3061604.short)\
  Sarper Ozharar, Yue Tian, Yangmin Ding, Zhuocheng Jiang, Jian Fang, **Yao Wang**, Yi Bao, Ting Wang. \
 **29th International Conference on Optical Fiber Sensors**
-  
+
 * [Spallation of underground rock openings with weak planes in surrounding rock mass subjected to dynamic loading: An analytical investigation.](https://www.sciencedirect.com/science/article/pii/S0886779825008168)\
 **Yao Wang**, Zhiyi Liao, Weiyue Bao, Shuo Bi, Jianbo Zhu. \
 **Tunnelling and Underground Space Technology** (JCR Q1, TOP, IF=7.4)
