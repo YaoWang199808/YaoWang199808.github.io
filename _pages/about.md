@@ -20,6 +20,7 @@ Hi, I am a PhD student at the [Stevens Institute of Technology](https://www.stev
 # 🔥 News
 <div class="scrollable">
  <ul>
+<li><strong>2025.10</strong>: &nbsp;🎉 I have presented our latest research <strong> Real-time monitoring of far-field cracks in concrete bridge decks using distributed acoustic sensing technique  </strong> at the <strong>27th Annual NJDOT Research Showcase (“Preparing the Workforce for the Future”)</strong>. </li>
 <li><strong>2025.05</strong>: &nbsp;🎉 Our recent work on <strong> underwater distributed acoustic fiber-optic sensing </strong> has been presented at the <strong>29th International Conference on Optical Fiber Sensors (OFS-29)</strong>, a leading forum in the field of photonic sensing technologies. </li>
 <li><strong>2024.09</strong>: &nbsp; I have joined the <strong>Stevens Institute of technology</strong> as a <strong> Ph.D. student</strong>, focusing on the  <strong>AI for acoustic monitoring</strong>. </li>
 <li><strong>2024.07</strong>: &nbsp;🎉 One first-authored paper is accepted by <strong>Journal of Vibration and Shock</strong>. </li>
