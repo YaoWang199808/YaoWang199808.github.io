@@ -35,7 +35,7 @@ Hi, I am a PhD student at the [Stevens Institute of Technology](https://www.stev
   
 * [Spallation of underground rock openings with weak planes in surrounding rock mass subjected to dynamic loading: An analytical investigation.](https://www.sciencedirect.com/science/article/pii/S0886779825008168)\
 **Yao Wang**, Zhiyi Liao, Weiyue Bao, Shuo Bi, Jianbo Zhu. \
-**Tunnelling and Underground Space Technology**
+**Tunnelling and Underground Space Technology** (JCR Q1, TOP, IF=7.4)
 
 * [Numerical investigation of the vibration reduction and isolation effect of barrier holes under blasting load.](https://jvs.sjtu.edu.cn/EN/Y2025/V44/I2/40)\
 **Yao Wang**, Zhiyi Liao, Yan Chen, Xing Zhao, Weixiong Tang, Weiyue Bao, Jiaxin Sun, Jianbo Zhu. \
