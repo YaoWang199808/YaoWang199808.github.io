@@ -58,6 +58,4 @@ Other activities I engage in include badminton,  table tennis, chinese chess and
 
 -----------------------------------------
 
-</div>
-
-Last updated on: 2025.01.14.
+Last updated on: 2025.11.07.
