@@ -12,7 +12,7 @@ repository               : "YaoWang199808/YaoWang199808.github.io"
 google_scholar_stats_use_cdn : True
 
 # google analytics
-google_analytics_id      :  hmaRRBUAAAAJ # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  "" # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -27,7 +27,7 @@ author:
   location         : "Hoboken, USA"
   employer         :
   pubmed           : 
-  googlescholar    : ""
+  googlescholar    : "https://scholar.google.com/citations?user=hmaRRBUAAAAJ"
   email            : "ywang504@stevens.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
