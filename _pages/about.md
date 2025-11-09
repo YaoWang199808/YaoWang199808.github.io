@@ -41,6 +41,9 @@ Hi, I am a PhD student at the [Stevens Institute of Technology](https://www.stev
 **Yao Wang**, Zhiyi Liao, Yan Chen, Xing Zhao, Weixiong Tang, Weiyue Bao, Jiaxin Sun, Jianbo Zhu. \
 **Journal of Vibration and Shock**
 
+* [Spallation characteristics of surrounding rock with structural planes with different stress wave transmittance under dynamic load.](https://ckyckz.kcyjy.com/article/doi/10.13532/j.jmsce.cn10-1638/td.20240016.001)\
+Jianbo Zhu,Shuo Bi, Jiaxin Sun, Weiyue Bao, Zhiyi Liao, **Yao Wang** .\
+**Journal of Mining and Strata Control Engineering**
 
 # 📖 Educations
 - *2021.09 - 2024.05*, Master, Shenzhen University, Shenzhen, China. 
