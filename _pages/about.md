@@ -31,11 +31,11 @@ Hi, I am a PhD student at the [Stevens Institute of Technology](https://www.stev
 # 📝 Publications 
 * [Distributed acoustic sensing-based real-time monitoring of far-field cracks in reinforced concrete bridge decks.](https://www.sciencedirect.com/science/article/abs/pii/S0926580526000622?dgcid=coauthor)\
 **Yao Wang**, Yi Bao. \
-**Automation in Construction**
+**Automation in Construction**(JCR Q1, TOP, IF=11.5)
 
 * [Detection of waves and sea-surface vessels via time-domain-only analysis of underwater DAS data.](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13639/136392N/Detection-of-waves-and-sea-surface-vessels-via-time-domain/10.1117/12.3061604.short)\
 Sarper Ozharar, Yue Tian, Yangmin Ding, Zhuocheng Jiang, Jian Fang, **Yao Wang**, Yi Bao, Ting Wang. \
-**29th International Conference on Optical Fiber Sensors**
+**29th International Conference on Optical Fiber Sensors**(EI,Conference)
 
 * [Spallation of underground rock openings with weak planes in surrounding rock mass subjected to dynamic loading: An analytical investigation.](https://www.sciencedirect.com/science/article/pii/S0886779825008168)\
 **Yao Wang**, Zhiyi Liao, Weiyue Bao, Shuo Bi, Jianbo Zhu. \
@@ -43,11 +43,11 @@ Sarper Ozharar, Yue Tian, Yangmin Ding, Zhuocheng Jiang, Jian Fang, **Yao Wang**
 
 * [Numerical investigation of the vibration reduction and isolation effect of barrier holes under blasting load.](https://jvs.sjtu.edu.cn/EN/Y2025/V44/I2/40)\
 **Yao Wang**, Zhiyi Liao, Yan Chen, Xing Zhao, Weixiong Tang, Weiyue Bao, Jiaxin Sun, Jianbo Zhu. \
-**Journal of Vibration and Shock**
+**Journal of Vibration and Shock**(EI,CSCD)
 
 * [Spallation characteristics of surrounding rock with structural planes with different stress wave transmittance under dynamic load.](https://ckyckz.kcyjy.com/article/doi/10.13532/j.jmsce.cn10-1638/td.20240016.001)\
 Jianbo Zhu,Shuo Bi, Jiaxin Sun, Weiyue Bao, Zhiyi Liao, **Yao Wang** .\
-**Journal of Mining and Strata Control Engineering**
+**Journal of Mining and Strata Control Engineering**(EI)
 
 # 📖 Educations
 - *2021.09 - 2024.05*, Master, Shenzhen University, Shenzhen, China. 
