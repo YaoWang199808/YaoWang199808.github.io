@@ -43,7 +43,7 @@ Sarper Ozharar, Yue Tian, Yangmin Ding, Zhuocheng Jiang, Jian Fang, **Yao Wang**
 
 * [Numerical investigation of the vibration reduction and isolation effect of barrier holes under blasting load.](https://jvs.sjtu.edu.cn/EN/Y2025/V44/I2/40)\
 **Yao Wang**, Zhiyi Liao, Yan Chen, Xing Zhao, Weixiong Tang, Weiyue Bao, Jiaxin Sun, Jianbo Zhu. \
-**Journal of Vibration and Shock**(EI,CSCD)
+**Journal of Vibration and Shock**(EI, CSCD)
 
 * [Spallation characteristics of surrounding rock with structural planes with different stress wave transmittance under dynamic load.](https://ckyckz.kcyjy.com/article/doi/10.13532/j.jmsce.cn10-1638/td.20240016.001)\
 Jianbo Zhu,Shuo Bi, Jiaxin Sun, Weiyue Bao, Zhiyi Liao, **Yao Wang** .\
